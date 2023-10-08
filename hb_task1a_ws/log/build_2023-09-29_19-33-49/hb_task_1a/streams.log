@@ -1,0 +1,17 @@
+[0.463s] Invoking command in '/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a': CMAKE_PREFIX_PATH=/home/furquan/eyrc_hb/hb_task1a_ws/install/turtlesim:/home/furquan/eyrc_hb/hb_task1b_ws/install/my_robot_interfaces LD_LIBRARY_PATH=/home/furquan/eyrc_hb/hb_task1a_ws/install/turtlesim/lib:/home/furquan/eyrc_hb/hb_task1b_ws/install/my_robot_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/prefix_override:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build --no-deps install_data
+[0.632s] running develop
+[0.733s] running egg_info
+[0.733s] writing hb_task_1a.egg-info/PKG-INFO
+[0.733s] writing dependency_links to hb_task_1a.egg-info/dependency_links.txt
+[0.733s] writing entry points to hb_task_1a.egg-info/entry_points.txt
+[0.734s] writing requirements to hb_task_1a.egg-info/requires.txt
+[0.734s] writing top-level names to hb_task_1a.egg-info/top_level.txt
+[0.735s] reading manifest file 'hb_task_1a.egg-info/SOURCES.txt'
+[0.751s] writing manifest file 'hb_task_1a.egg-info/SOURCES.txt'
+[0.752s] running build_ext
+[0.752s] Creating /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages/hb-task-1a.egg-link (link to .)
+[0.753s] Installing task_1a_3747 script to /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/hb_task_1a
+[0.753s] 
+[0.753s] Installed /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a
+[0.753s] running install_data
+[0.779s] Invoked command in '/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a' returned '0': CMAKE_PREFIX_PATH=/home/furquan/eyrc_hb/hb_task1a_ws/install/turtlesim:/home/furquan/eyrc_hb/hb_task1b_ws/install/my_robot_interfaces LD_LIBRARY_PATH=/home/furquan/eyrc_hb/hb_task1a_ws/install/turtlesim/lib:/home/furquan/eyrc_hb/hb_task1b_ws/install/my_robot_interfaces/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib PYTHONPATH=/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/prefix_override:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build --no-deps install_data

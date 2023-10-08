@@ -1,0 +1,31 @@
+[0.404s] Invoking command in '/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/prefix_override:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build
+[0.571s] running develop
+[0.664s] Removing /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages/hb-task-1a.egg-link (link to .)
+[0.689s] Invoked command in '/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a' returned '0': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/prefix_override:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build
+[0.690s] Invoking command in '/home/furquan/eyrc_hb/hb_task1a_ws/src/hb_task_1a': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/prefix_override:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hb_task_1a build --build-base /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build install --record /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/install.log --single-version-externally-managed
+[0.845s] running egg_info
+[0.845s] writing ../../build/hb_task_1a/hb_task_1a.egg-info/PKG-INFO
+[0.846s] writing dependency_links to ../../build/hb_task_1a/hb_task_1a.egg-info/dependency_links.txt
+[0.846s] writing entry points to ../../build/hb_task_1a/hb_task_1a.egg-info/entry_points.txt
+[0.846s] writing requirements to ../../build/hb_task_1a/hb_task_1a.egg-info/requires.txt
+[0.846s] writing top-level names to ../../build/hb_task_1a/hb_task_1a.egg-info/top_level.txt
+[0.847s] reading manifest file '../../build/hb_task_1a/hb_task_1a.egg-info/SOURCES.txt'
+[0.848s] writing manifest file '../../build/hb_task_1a/hb_task_1a.egg-info/SOURCES.txt'
+[0.848s] running build
+[0.848s] running build_py
+[0.848s] creating /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build
+[0.848s] creating /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build/lib
+[0.848s] creating /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build/lib/hb_task_1a
+[0.848s] copying hb_task_1a/__init__.py -> /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build/lib/hb_task_1a
+[0.848s] running install
+[0.848s] running install_lib
+[0.849s] creating /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages/hb_task_1a
+[0.849s] copying /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build/lib/hb_task_1a/__init__.py -> /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages/hb_task_1a
+[0.849s] byte-compiling /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages/hb_task_1a/__init__.py to __init__.cpython-310.pyc
+[0.849s] running install_data
+[0.849s] running install_egg_info
+[0.851s] Copying ../../build/hb_task_1a/hb_task_1a.egg-info to /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages/hb_task_1a-0.0.0-py3.10.egg-info
+[0.865s] running install_scripts
+[0.878s] Installing task_1a_3747 script to /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/hb_task_1a
+[0.878s] writing list of installed files to '/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/install.log'
+[0.900s] Invoked command in '/home/furquan/eyrc_hb/hb_task1a_ws/src/hb_task_1a' returned '0': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/prefix_override:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hb_task_1a build --build-base /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build install --record /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/install.log --single-version-externally-managed

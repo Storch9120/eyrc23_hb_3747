@@ -1,0 +1,23 @@
+[1.545s] Invoking command in '/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/prefix_override:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build --no-deps install_data
+[1.712s] running develop
+[1.828s] running egg_info
+[1.829s] creating hb_task_1a.egg-info
+[1.829s] writing hb_task_1a.egg-info/PKG-INFO
+[1.829s] writing dependency_links to hb_task_1a.egg-info/dependency_links.txt
+[1.829s] writing entry points to hb_task_1a.egg-info/entry_points.txt
+[1.829s] writing requirements to hb_task_1a.egg-info/requires.txt
+[1.829s] writing top-level names to hb_task_1a.egg-info/top_level.txt
+[1.829s] writing manifest file 'hb_task_1a.egg-info/SOURCES.txt'
+[1.830s] reading manifest file 'hb_task_1a.egg-info/SOURCES.txt'
+[1.830s] writing manifest file 'hb_task_1a.egg-info/SOURCES.txt'
+[1.831s] running build_ext
+[1.831s] Creating /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages/hb-task-1a.egg-link (link to .)
+[1.832s] 
+[1.832s] Installed /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a
+[1.832s] running install_data
+[1.833s] creating /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/share/ament_index
+[1.833s] creating /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/share/ament_index/resource_index
+[1.833s] creating /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/share/ament_index/resource_index/packages
+[1.833s] copying resource/hb_task_1a -> /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/share/ament_index/resource_index/packages
+[1.833s] copying package.xml -> /home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/share/hb_task_1a
+[1.859s] Invoked command in '/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a' returned '0': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/prefix_override:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/furquan/eyrc_hb/hb_task1a_ws/build/hb_task_1a/build --no-deps install_data

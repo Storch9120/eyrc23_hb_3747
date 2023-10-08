@@ -1,0 +1,5 @@
+[console_scripts]
+joint_state_publisher = hb_task_1b.joint_state_publisher:main
+robot_state_publisher = hb_task_1b.robot_state_publisher:main
+spawn_entity = hb_task_1b.spawn_entity:main
+

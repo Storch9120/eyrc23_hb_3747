@@ -1,0 +1,24 @@
+[0.438s] Invoking command in '/home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/prefix_override:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build
+[0.620s] running develop
+[0.722s] Removing /home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages/hb-task-1b.egg-link (link to .)
+[0.722s] Note: you must uninstall or replace scripts manually!
+[0.749s] Invoked command in '/home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b' returned '0': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/prefix_override:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build
+[0.750s] Invoking command in '/home/furquan/eyrc_hb/hb_task1b_ws/src/hb_task_1b': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/prefix_override:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hb_task_1b build --build-base /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build install --record /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/install.log --single-version-externally-managed
+[0.916s] running egg_info
+[0.916s] writing ../../build/hb_task_1b/hb_task_1b.egg-info/PKG-INFO
+[0.916s] writing dependency_links to ../../build/hb_task_1b/hb_task_1b.egg-info/dependency_links.txt
+[0.917s] writing entry points to ../../build/hb_task_1b/hb_task_1b.egg-info/entry_points.txt
+[0.917s] writing requirements to ../../build/hb_task_1b/hb_task_1b.egg-info/requires.txt
+[0.917s] writing top-level names to ../../build/hb_task_1b/hb_task_1b.egg-info/top_level.txt
+[0.918s] reading manifest file '../../build/hb_task_1b/hb_task_1b.egg-info/SOURCES.txt'
+[0.919s] writing manifest file '../../build/hb_task_1b/hb_task_1b.egg-info/SOURCES.txt'
+[0.919s] running build
+[0.919s] running build_py
+[0.919s] creating /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build
+[0.919s] creating /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build/lib
+[0.919s] creating /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build/lib/hb_task_1b
+[0.919s] copying hb_task_1b/__init__.py -> /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build/lib/hb_task_1b
+[0.919s] running build_scripts
+[0.920s] creating /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build/scripts-3.10
+[0.920s] error: file '/home/furquan/eyrc_hb/hb_task1b_ws/src/hb_task_1b/scripts/controller.py' does not exist
+[0.935s] Invoked command in '/home/furquan/eyrc_hb/hb_task1b_ws/src/hb_task_1b' returned '1': PYTHONPATH=/home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/prefix_override:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/hb_task_1b build --build-base /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/build install --record /home/furquan/eyrc_hb/hb_task1b_ws/build/hb_task_1b/install.log --single-version-externally-managed
