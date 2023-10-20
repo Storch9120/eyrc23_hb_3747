@@ -199,7 +199,7 @@
       <commandTopic>cmd_vel</commandTopic>
       <odometryTopic>odom</odometryTopic>
       <odometryFrame>odom</odometryFrame>
-      <odometryRate>20.0</odometryRate>
+      <odometryRate>100.0</odometryRate>
       <robotBaseFrame>chasis</robotBaseFrame>
     </plugin>
   </gazebo>

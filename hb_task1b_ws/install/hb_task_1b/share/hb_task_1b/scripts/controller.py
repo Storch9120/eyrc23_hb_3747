@@ -47,6 +47,7 @@ class HBTask1BController(Node):
         self.req = NextGoal.Request()
 
     def odometry_callback(self, msg):
+        print("odom was called /")
         orientation = msg.pose.pose.orientation
         (roll, pitch, yaw) = euler_from_quaternion(
             [orientation.x, orientation.y, orientation.z, orientation.w])

@@ -27,7 +27,9 @@ class ServiceNode(Node):
     def next_goal_callback(self, request, response):
         msg = String()
 
-        goal_request = request.request_goal
+        # goal_request = request.request_goal
+
+        #request_goal is our index value - can be thought of as request number
         if request.request_goal < len(self.shape_list[1][0]):
             x = self.shape_list[1][0][(request.request_goal)]
             y = self.shape_list[1][1][(request.request_goal)]
@@ -38,6 +40,7 @@ class ServiceNode(Node):
         x = self.shape_list[1][0][(request.request_goal-1)]
         y = self.shape_list[1][1][(request.request_goal-1)]
         
+        # pushing shape name to /shape here
         msg.data = self.shape_list[0]
         self.publish_shape.publish(msg)
         
@@ -99,6 +102,7 @@ def main(args=None):
     rclpy.init(args=args)
     service_node = ServiceNode()
     shape_functions = ["generate_square", "generate_triangle", "generate_rectangle"]
+    # shape_functions = ["generate_square"]
     random_shape_function_name = random.choice(shape_functions)
 
     if random_shape_function_name == "generate_rectangle":
@@ -108,7 +112,12 @@ def main(args=None):
     elif random_shape_function_name == "generate_triangle":
         shape_data = generate_triangle()
 
+
+# shape data is x, y, theta format
+# shape list is string, x, y, theta
+
     service_node.shape_list = [random_shape_function_name, shape_data]
+
     rclpy.spin(service_node)
     rclpy.shutdown()
 if __name__ == '__main__':
