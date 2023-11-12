@@ -1,0 +1,21 @@
+[0.676s] Invoking command in '/home/furquan/eyrc_hb/hb_task_2_ws/src/build/hb_task2a': PYTHONPATH=/home/furquan/eyrc_hb/hb_task_2_ws/src/build/hb_task2a/prefix_override:/home/furquan/eyrc_hb/hb_task_2_ws/src/install/hb_task2a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/furquan/eyrc_hb/hb_task_2_ws/src/build/hb_task2a/build --no-deps install_data
+[0.867s] running develop
+[1.047s] running egg_info
+[1.047s] creating hb_task2a.egg-info
+[1.047s] writing hb_task2a.egg-info/PKG-INFO
+[1.047s] writing dependency_links to hb_task2a.egg-info/dependency_links.txt
+[1.047s] writing entry points to hb_task2a.egg-info/entry_points.txt
+[1.047s] writing requirements to hb_task2a.egg-info/requires.txt
+[1.047s] writing top-level names to hb_task2a.egg-info/top_level.txt
+[1.047s] writing manifest file 'hb_task2a.egg-info/SOURCES.txt'
+[1.049s] reading manifest file 'hb_task2a.egg-info/SOURCES.txt'
+[1.049s] writing manifest file 'hb_task2a.egg-info/SOURCES.txt'
+[1.050s] running build_ext
+[1.050s] Creating /home/furquan/eyrc_hb/hb_task_2_ws/src/install/hb_task2a/lib/python3.10/site-packages/hb-task2a.egg-link (link to .)
+[1.051s] Installing feedback script to /home/furquan/eyrc_hb/hb_task_2_ws/src/install/hb_task2a/lib/hb_task2a
+[1.051s] 
+[1.051s] Installed /home/furquan/eyrc_hb/hb_task_2_ws/src/build/hb_task2a
+[1.051s] running install_data
+[1.089s] copying scripts/feedback.py -> /home/furquan/eyrc_hb/hb_task_2_ws/src/install/hb_task2a/share/hb_task2a/scripts
+[1.112s] copying scripts/controller.py -> /home/furquan/eyrc_hb/hb_task_2_ws/src/install/hb_task2a/share/hb_task2a/scripts
+[1.181s] Invoked command in '/home/furquan/eyrc_hb/hb_task_2_ws/src/build/hb_task2a' returned '0': PYTHONPATH=/home/furquan/eyrc_hb/hb_task_2_ws/src/build/hb_task2a/prefix_override:/home/furquan/eyrc_hb/hb_task_2_ws/src/install/hb_task2a/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/furquan/eyrc_hb/hb_task_2_ws/src/build/hb_task2a/build --no-deps install_data

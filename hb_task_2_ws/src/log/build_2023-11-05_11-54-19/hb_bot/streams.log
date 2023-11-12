@@ -1,0 +1,82 @@
+[0.148s] Invoking command in '/home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2b:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2a:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a:/home/furquan/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/hb_bot -DCMAKE_INSTALL_PREFIX=/home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot
+[1.733s] -- The C compiler identification is GNU 11.4.0
+[2.114s] -- The CXX compiler identification is GNU 11.4.0
+[2.209s] -- Detecting C compiler ABI info
+[2.431s] -- Detecting C compiler ABI info - done
+[2.436s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.436s] -- Detecting C compile features
+[2.442s] -- Detecting C compile features - done
+[2.445s] -- Detecting CXX compiler ABI info
+[2.565s] -- Detecting CXX compiler ABI info - done
+[2.575s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.575s] -- Detecting CXX compile features
+[2.576s] -- Detecting CXX compile features - done
+[2.658s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.953s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[3.381s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[3.711s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.715s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.756s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.850s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.865s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.047s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[4.052s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.391s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.436s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.472s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.577s] -- Looking for pthread.h
+[4.641s] -- Looking for pthread.h - found
+[4.641s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.711s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.712s] -- Found Threads: TRUE  
+[4.938s] -- Found rclpy: 3.3.9 (/opt/ros/humble/share/rclpy/cmake)
+[4.948s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[5.120s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[5.130s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.298s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.299s] -- Added test 'lint_cmake' to check CMake code style
+[5.300s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[5.302s] -- Added test 'xmllint' to check XML markup files
+[5.305s] -- Configuring done
+[5.311s] -- Generating done
+[5.313s] -- Build files have been written to: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot
+[5.336s] Invoked command in '/home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2b:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2a:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a:/home/furquan/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/hb_bot -DCMAKE_INSTALL_PREFIX=/home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot
+[5.338s] Invoking command in '/home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2b:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2a:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a:/home/furquan/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot -- -j8 -l8
+[5.381s] Invoked command in '/home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2b:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2a:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a:/home/furquan/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot -- -j8 -l8
+[5.413s] Invoking command in '/home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2b:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2a:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a:/home/furquan/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot
+[5.422s] -- Install configuration: ""
+[5.423s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//launch
+[5.423s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//launch/Spawn_bot.launch.py
+[5.451s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//launch/multi_bot_spawn.launch.py
+[5.477s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes
+[5.477s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/bot_3.dae
+[5.553s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/bot_2.dae
+[5.719s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/bot_2.jpg
+[5.719s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/bot_1.jpg.001.jpg
+[5.719s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/wheel.stl
+[5.972s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/bot_1.jpg
+[5.982s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/bot_2.jpg.001.jpg
+[5.997s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/bot_3.jpg
+[5.997s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/bot_3.jpg.001.jpg
+[6.003s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//meshes/bot_1.dae
+[6.055s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//urdf
+[6.055s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//urdf/hb_bot_1.urdf.xacro
+[6.055s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//urdf/hb_bot_2.urdf.xacro
+[6.055s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//urdf/hb_bot_3.urdf.xacro
+[6.055s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot//urdf/materials.xacro
+[6.056s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/ament_index/resource_index/package_run_dependencies/hb_bot
+[6.056s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/ament_index/resource_index/parent_prefix_path/hb_bot
+[6.056s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/environment/ament_prefix_path.sh
+[6.056s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/environment/ament_prefix_path.dsv
+[6.056s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/environment/path.sh
+[6.057s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/environment/path.dsv
+[6.057s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/local_setup.bash
+[6.057s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/local_setup.sh
+[6.057s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/local_setup.zsh
+[6.057s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/local_setup.dsv
+[6.057s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/package.dsv
+[6.058s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/ament_index/resource_index/packages/hb_bot
+[6.059s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/cmake/hb_botConfig.cmake
+[6.060s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/cmake/hb_botConfig-version.cmake
+[6.060s] -- Installing: /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/install/hb_bot/share/hb_bot/package.xml
+[6.077s] Invoked command in '/home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2b:/home/furquan/eyrc_hb/hb_task_2_ws/install/hb_task2a:/home/furquan/eyrc_hb/hb_task1b_ws/install/hb_task_1b:/home/furquan/eyrc_hb/hb_task1a_ws/install/hb_task_1a:/home/furquan/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/furquan/eyrc_hb/hb_task_2_ws/src/eYRC-2023_Hologlyph_Bots/build/hb_bot

@@ -1,0 +1,1 @@
+/home/furquan/eyrc_hb/hb_task_2_ws/src/build/hb_bot/ament_cmake_environment_hooks/local_setup.zsh

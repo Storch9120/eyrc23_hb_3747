@@ -100,7 +100,8 @@ class HBTask1BController(Node):
                 logger.info("Goal has been reached.")
                 self.vel.linear.x=0.0
                 self.vel.linear.y=0.0
-                break
+                
+            self.cmd_vel_publisher.publish(self.vel)
             rclpy.spin_once(self)
         logger.info("CL run done")
 

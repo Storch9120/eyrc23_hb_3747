@@ -1,0 +1,1 @@
+/home/furquan/eyrc_hb/hb_task_2_ws/src/build/my_robot_interfaces/rosidl_generator_c/my_robot_interfaces/srv/detail/next_goal__struct.h
